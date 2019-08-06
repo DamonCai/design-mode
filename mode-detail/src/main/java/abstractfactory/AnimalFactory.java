@@ -1,14 +1,18 @@
-package factory;
+package abstractfactory;
+
+import factory.Animal;
+import factory.Cat;
+import factory.Dog;
 
 /**
  * @author Damon
  * @version 1.0 , JDK 1.8
- * @category Package Name:factory
- * @date Date:2019/8/6 19:39
+ * @category Package Name:abstractfactory
+ * @date Date:2019/8/6 20:38
  */
-public class AnimalFactory {
+public class AnimalFactory extends AbstractFactory {
 
-    //使用 getAnimal 方法获取形状类型的对象
+    @Override
     public Animal getAnimal(String animal) {
         if (animal == null) {
             return null;
@@ -21,4 +25,8 @@ public class AnimalFactory {
         return null;
     }
 
+    @Override
+    public Color getColor(String color) {
+        return null;
+    }
 }
