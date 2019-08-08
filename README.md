@@ -1,5 +1,8 @@
 # design-mode
-设计模式的相关整理
+[设计模式的相关整理,来源于`W3CSchool`](https://www.w3cschool.cn/shejimoshi/?)
+
+
+
 
 
 ## 	创建型模式
