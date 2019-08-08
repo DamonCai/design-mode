@@ -9,7 +9,6 @@ import builder.item.VegBurger;
  * @author Damon
  * @version 1.0 , JDK 1.8
  * @category Package Name:builder
- * @date Date:2019/8/8 13:59
  *
  * 自定义的套餐 ， 蔬菜汉堡+可乐   鸡肉汉堡+百事
  */

@@ -8,7 +8,6 @@ import factory.Dog;
  * @author Damon
  * @version 1.0 , JDK 1.8
  * @category Package Name:abstractfactory
- * @date Date:2019/8/6 20:38
  */
 public class AnimalFactory extends AbstractFactory {
 

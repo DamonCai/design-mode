@@ -6,7 +6,6 @@ import factory.Animal;
  * @author Damon
  * @version 1.0 , JDK 1.8
  * @category Package Name:abstractfactory
- * @date Date:2019/8/6 22:42
  */
 public class ZExecute {
 

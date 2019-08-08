@@ -7,7 +7,6 @@ import builder.pack.Wrapper;
  * @author Damon
  * @version 1.0 , JDK 1.8
  * @category Package Name:builder
- * @date Date:2019/8/8 11:47
  *
  * 抽象出汉堡类，汉堡的包装方式是纸盒
  *
