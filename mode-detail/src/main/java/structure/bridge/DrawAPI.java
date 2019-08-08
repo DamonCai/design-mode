@@ -6,5 +6,8 @@ package structure.bridge;
  * @category Package Name:structure.bridge
  * @date Date:2019/8/8 19:37
  */
-public class DrawAPI {
+public interface DrawAPI {
+
+    void drawCircle(int radius, int x, int y);
+
 }
