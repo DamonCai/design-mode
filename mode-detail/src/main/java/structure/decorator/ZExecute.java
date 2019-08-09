@@ -3,7 +3,7 @@ package structure.decorator;
 /**
  * @author Damon
  * @version 1.0 , JDK 1.8
- * @category Package Name:create.composite
+ * @category Package Name:create.decorator
  */
 public class ZExecute {
 
