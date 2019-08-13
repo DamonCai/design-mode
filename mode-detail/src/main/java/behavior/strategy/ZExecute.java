@@ -3,7 +3,7 @@ package behavior.strategy;
 /**
  * @author Damon
  * @version 1.0 , JDK 1.8
- * @category Package Name:behavior.state
+ * @category Package Name:behavior.strategy
  */
 public class ZExecute {
     public static void main(String[] args) {
