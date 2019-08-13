@@ -1,6 +1,8 @@
 # design-mode
 [设计模式的相关整理,来源于`W3CSchool`](https://www.w3cschool.cn/shejimoshi/?)
 
+[设计模式的相关整理,来源于`菜鸟教程`](https://www.runoob.com/design-pattern/design-pattern-tutorial.html)
+
 
 
 
